@@ -1,6 +1,6 @@
 # Hi there 👋   My name is Lauren Colvin!
 
-I'm so glad you're here!
+I am a designer 🎨  turned web developer 💻  who brings enthusiasm, creativity and an exceptional work ethic to every team. I am trained as a full stack developer, and provide great value with my interpersonal skills, big-picture thinking, efficient solutions and positive attitude. I work well under pressure and love to think outside of the box to solve challenging problems. 💡
 
 🌟 Check out my [portfolio!](https://www.laurencolvin.com/) 🌟
 
