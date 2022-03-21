@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Lauren Colvin and I'm so glad you're here!
+### Hi there 👋   My name is Lauren Colvin!
+
+I'm so glad you're here!
 
 ## About Me
 
@@ -7,7 +9,7 @@
 :cat2: I have an adorable orange cat named Louie.  
 :earth_americas: I am passionate about sustainability, especially in the fashion industry.  
 :tent: I love camping and getting outdoors.  
-:performing_arts: I grew up performing and will never miss and opportunity to watch a musical.  
+:performing_arts: I grew up performing and will never miss an opportunity to watch a musical.  
 
 <!--
 **LaurenColvin/LaurenColvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
