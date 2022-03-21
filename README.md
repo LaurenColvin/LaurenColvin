@@ -1,6 +1,8 @@
-### Hi there 👋   My name is Lauren Colvin!
+# Hi there 👋   My name is Lauren Colvin!
 
 I'm so glad you're here!
+
+🌟 Check out my [portfolio!](https://www.laurencolvin.com/) 🌟
 
 ## About Me
 
