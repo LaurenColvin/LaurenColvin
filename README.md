@@ -4,6 +4,10 @@ I am a designer 🎨  turned web developer 💻  who brings enthusiasm, creativi
 
 🌟 Check out my [portfolio!](https://www.laurencolvin.com/) 🌟
 
+### Currently Working On:
+
+[Wishlist App](https://github.com/LaurenColvin/wishlist-client) 
+
 ## About Me
 
 :palm_tree: I live steps from the beach in Playa Del Rey.  
