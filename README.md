@@ -6,7 +6,7 @@ I am a designer 🎨  turned web developer 💻  who brings enthusiasm, creativi
 
 ### Currently Working On:
 
-[Wishlist App](https://github.com/LaurenColvin/wishlist-client) 
+✨ [Wishlist App](https://github.com/LaurenColvin/wishlist-client) ✨
 
 ## About Me
 
